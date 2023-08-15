@@ -1,4 +1,4 @@
-## ![MasterHead](https://png.pngtree.com/background/20210714/original/pngtree-data-science-background-banner-template-design-picture-image_1246228.jpg)
+## ![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 
 <h1 align="center">Hi 👋, I'm Avirat</h1>
@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avirat31&label=Profile%20views&color=0e75b6&style=flat" alt="avirat31" /> </p>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
@@ -16,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Avirat31](https://github.com/Avirat31)
 
-- 💬 Ask me about **Python, Statistics, ML, DL, HTML, CSS3, Databases**
+- 💬 Ask me about **Python, Statistics, ML, DL,Flask, Databases**
 
 - 📫 How to reach me **avirats18@gmail.com**
 
