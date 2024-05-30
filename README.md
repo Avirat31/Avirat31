@@ -1,6 +1,3 @@
-## ![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-
-
 <h1 align="center">Hi 👋, I'm Avirat</h1>
 <h3 align="center">Passionate about Artificial Intelligence, Machine Learning and Deep Learning</h3>
 
