@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱  I’m currently doing projects in AI, ML & DL
+- 🌱  I’m currently doing projects on CNN, LLM, Computer Vision and Generative AI.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Avirat31](https://github.com/Avirat31)
-
-- 💬 Ask me about **Python, Statistics, ML, DL,Flask, Databases**
 
 - 📫 How to reach me **avirats18@gmail.com**
 
